@@ -1,9 +1,3 @@
-# SAVE WORLD: Using Natural Language Processing(NLP) to Identify Suicidal Posts on Reddit
-
----
-
-> "*When you are tempted to give up, your breakthrough is probably just around the corner.*"
-
 ## Overview
 This project aims to leverage Natural Language Processing (NLP) techniques to identify potentially suicidal posts on Reddit. By analyzing posts from two subreddits—r/depression and r/SuicideWatch—we aim to provide support and intervention for individuals at risk.
 
